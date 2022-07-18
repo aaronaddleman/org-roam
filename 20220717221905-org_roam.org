@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f4c44636-b5a1-49c9-83ca-83580e4a9188
+:END:
+#+title: Org Roam
+* Summary
+Making notes to be organized.

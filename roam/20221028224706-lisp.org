@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       832e40d4-b5e5-4724-b5b4-0a0c27dd4e46
+:END:
+#+title: Lisp
+* Summary
+List programming language

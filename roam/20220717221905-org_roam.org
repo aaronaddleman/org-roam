@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f4c44636-b5a1-49c9-83ca-83580e4a9188
+:END:
+#+title: Org Roam
+#+filetags: :notes:howto:
+* Summary :new:
+Making notes to be organized.
+* How to configure
+[[id:7350f91b-eeb1-4f3c-869f-14512dcea352][Emacs Doom]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0c713e22-2517-4a0f-aedb-175c1eb016a0
+:END:
+#+title: New Node
+
+This is a new node

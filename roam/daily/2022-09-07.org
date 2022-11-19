@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4ffffc17-848a-4bb1-8ebb-95e47387444a
+:END:
+#+title: 2022-09-07
+* What I learned
+Some people need less context switching.

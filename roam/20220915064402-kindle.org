@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       04687ace-dfc4-4c3a-949d-5d5c1e9bd6a1
+:END:
+#+title: Kindle
+* File Formats
+Best option for files is to use:
+- .kfx
+- .mobi
+* This is the zen mode

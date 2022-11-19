@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e9a1f8e9-76e1-4756-ba2e-569443263ca9
+:END:
+#+title: Home Assistant
+* Summary
+Home Assistant allows for automation using local hardware and can continue to operation with out the use of the Internet.

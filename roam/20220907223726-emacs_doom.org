@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7350f91b-eeb1-4f3c-869f-14512dcea352
+:END:
+#+title: Emacs Doom
+* Summary
+Doom is a way for managing packages of Emacs
